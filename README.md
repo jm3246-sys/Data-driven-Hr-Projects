@@ -1,107 +1,266 @@
-# Data-driven-Hr-Projects
+# 📊 Data-driven HR Projects
 
-Professional portfolio showcasing HR Analytics, Power BI dashboards, and AI-driven HR projects.
+Professional portfolio showcasing **HR Analytics**, **Power BI dashboards**, and **AI-driven HR projects**.
 
-1. Deloitte Australia – Data Analytics Virtual Experience (Forage)
+---
 
- 📘 Description: Completed Deloitte’s virtual analytics simulation focused on data transformation, visualization, and storytelling.
+## 📌 Table of Contents
+1. [Deloitte Australia – Data Analytics Virtual Experience (Forage)](#deloitte-australia-–-data-analytics-virtual-experience-forage)
+2. [MLOps for Generative AI – Google Cloud](#mlops-for-generative-ai-–-google-cloud)
+3. [Generative AI for Recruiting & Talent Acquisition – LinkedIn Learning](#generative-ai-for-recruiting-&-talent-acquisition-–-linkedin-learning)
+4. [Strategic Workforce Planning Simulation – LinkedIn Learning](#strategic-workforce-planning-simulation-–-linkedin-learning)
+5. [HR Analytics for Business Decision Making – CHRMP](#hr-analytics-for-business-decision-making-–-chrmp)
+6. [Oracle Fusion HCM – Workforce Automation Use Case](#oracle-fusion-hcm-–-workforce-automation-use-case)
+7. [SAP SuccessFactors – Performance & Goals Management](#sap-successfactors-–-performance-&-goals-management)
+8. [Employee Engagement Analysis Project (Python + Excel)](#employee-engagement-analysis-project-python-+-excel)
+9. [AI-Powered HR Copilot (Concept Project)](#ai-powered-hr-copilot-concept-project)
 
-💡 Highlights:
+---
 
-Built Tableau dashboards for business insights and fraud detection
+<details>
+<summary>💼 Deloitte Australia – Data Analytics Virtual Experience (Forage)</summary>
 
-Conducted data cleaning and trend identification using Excel
+**Description:**  
+Completed Deloitte’s virtual analytics simulation focused on **data transformation, visualization, and storytelling**.
 
-Delivered client-ready data stories for decision-making
-🧠 Skills: Tableau, Excel Analytics, Forensic Data Techniques
+**Highlights:**  
+- 📊 Built Tableau dashboards for business insights and fraud detection  
+- 🧹 Conducted data cleaning and trend identification using Excel  
+- 📈 Delivered client-ready data stories for decision-making
 
- 2. MLOps for Generative AI – Google Cloud
+**Skills:** Tableau, Excel Analytics, Forensic Data Techniques
 
-📘 Description: Hands-on project on Machine Learning Operations (MLOps) for Generative AI models using Vertex AI.
+</details>
 
-💡 Highlights:
+---
 
-Designed ML pipelines for Generative AI model deployment
+<details>
+<summary>🤖 MLOps for Generative AI – Google Cloud</summary>
 
-Implemented model evaluation and drift detection
+**Description:**  
+Hands-on project on **Machine Learning Operations (MLOps)** for Generative AI models using Vertex AI.
 
-Focused on Responsible AI and model governance
-🧠 Skills: Vertex AI, MLOps, Model Deployment
+**Highlights:**  
+- 🛠 Designed ML pipelines for Generative AI model deployment  
+- 📊 Implemented model evaluation and drift detection  
+- 🔒 Focused on Responsible AI and model governance
 
- 3. Generative AI for Recruiting & Talent Acquisition – LinkedIn Learning
+**Skills:** Vertex AI, MLOps, Model Deployment
 
-📘 Description: Developed AI-driven HR automation concepts to optimize recruitment pipelines and talent sourcing strategies.
+</details>
 
-💡 Highlights:
+---
 
-Integrated AI tools for candidate screening and bias reduction
+<details>
+<summary>🧑‍💼 Generative AI for Recruiting & Talent Acquisition – LinkedIn Learning</summary>
 
-Designed ethical and transparent AI recruiting frameworks
-🧠 Skills: Generative AI, HR Analytics, ATS Systems
+**Description:**  
+Developed **AI-driven HR automation concepts** to optimize recruitment pipelines and talent sourcing strategies.
 
- 4. Strategic Workforce Planning Simulation – LinkedIn Learning
+**Highlights:**  
+- 🤖 Integrated AI tools for candidate screening and bias reduction  
+- ⚖ Designed ethical and transparent AI recruiting frameworks
 
-📘 Description: Applied data-driven frameworks to forecast workforce needs and build succession planning models.
+**Skills:** Generative AI, HR Analytics, ATS Systems
 
-💡 Highlights:
+</details>
 
-Conducted supply-demand gap analysis
+---
 
-Built succession readiness dashboards in Excel
-🧠 Skills: Workforce Planning, Forecasting, Excel Dashboards
+<details>
+<summary>📊 Strategic Workforce Planning Simulation – LinkedIn Learning</summary>
 
- 5. HR Analytics for Business Decision Making – CHRMP
+**Description:**  
+Applied **data-driven frameworks** to forecast workforce needs and build succession planning models.
 
-📘 Description: Capstone analytics project linking HR metrics with organizational KPIs.
+**Highlights:**  
+- 📈 Conducted supply-demand gap analysis  
+- 📝 Built succession readiness dashboards in Excel
 
-💡 Highlights:
+**Skills:** Workforce Planning, Forecasting, Excel Dashboards
 
-Developed HR analytics models for turnover prediction and performance scoring
+</details>
 
-Visualized key HR insights using Power BI and Excel
-🧠 Skills: Data-Driven HR, Predictive Analytics
+---
 
-6. Oracle Fusion HCM – Workforce Automation Use Case
+<details>
+<summary>📈 HR Analytics for Business Decision Making – CHRMP</summary>
 
-📘 Description: Designed an Oracle Fusion Cloud HCM workflow to automate HR lifecycle activities.
+**Description:**  
+Capstone analytics project linking **HR metrics with organizational KPIs**.
 
-💡 Highlights:
+**Highlights:**  
+- 🔍 Developed HR analytics models for turnover prediction and performance scoring  
+- 📊 Visualized key HR insights using Power BI and Excel
 
-Automated recruitment, onboarding, and payroll processes
+**Skills:** Data-Driven HR, Predictive Analytics
 
-Configured HCM dashboards for analytics and workforce insights
-🧠 Skills: Oracle Fusion HCM, HR Transformation
+</details>
 
- 7. SAP SuccessFactors – Performance & Goals Management
+---
 
-📘 Description: Configured a simulated SAP SuccessFactors environment for performance tracking and goal alignment.
+<details>
+<summary>💻 Oracle Fusion HCM – Workforce Automation Use Case</summary>
 
-💡 Highlights:
+**Description:**  
+Designed an **Oracle Fusion Cloud HCM workflow** to automate HR lifecycle activities.
 
-Developed OKR and KPI tracking modules
+**Highlights:**  
+- 🤖 Automated recruitment, onboarding, and payroll processes  
+- 📊 Configured HCM dashboards for analytics and workforce insights
 
- 8. Employee Engagement Analysis Project (Python + Excel)
-	
-📘 Description: Data exploration project identifying engagement and retention drivers through survey data.
+**Skills:** Oracle Fusion HCM, HR Transformation
 
-💡 Highlights:
+</details>
 
-Analyzed engagement survey data using Excel + Python
+---
 
-Correlated engagement with performance and tenure metrics
-🧠 Skills: Python (Pandas), Excel, HR Analytics
+<details>
+<summary>📌 SAP SuccessFactors – Performance & Goals Management</summary>
 
- 9. AI-Powered HR Copilot (Concept Project)
+**Description:**  
+Configured a simulated **SAP SuccessFactors environment** for performance tracking and goal alignment.
 
-📘 Description: Conceptual project integrating Microsoft Copilot and Generative AI for HR analytics automation.
+**Highlights:**  
+- 🏆 Developed OKR and KPI tracking modules
 
-💡 Highlights:
+</details>
 
-Automated report generation and data queries
+---
 
-Designed AI-powered HR dashboards with narration
-🧠 Skills: Copilot, Generative AI, Prompt Engineering
+<details>
+<summary>📝 Employee Engagement Analysis Project (Python + Excel)</summary>
 
-10. Generative AI for Recruiting & Talent Acquisition – LinkedIn Learning
+**Description:**  
+Data exploration project identifying **engagement and retention drivers** through survey data.
 
-📘 Description: Developed AI-driven HR automation concepts to optimize recruitment pipelines and talent sourcing strategies.
+**Highlights:**  
+- 📊 Analyzed engagement survey data using Excel + Python  
+- 🔗 Correlated engagement with performance and tenure metrics
+
+**Skills:** Python (Pandas), Excel, HR Analytics
+
+</details>
+
+---
+
+<details>
+<summary>🤖 AI-Powered HR Copilot (Concept Project)</summary>
+
+**Description:**  
+Conceptual project integrating **Microsoft Copilot and Generative AI** for HR analytics automation.
+
+**Highlights:**  
+- 📈 Automated report generation and data queries  
+- 🎛 Designed AI-powered HR dashboards with narration
+
+**Skills:** Copilot, Generative AI, Prompt Engineering
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ruitment pipelines and talent sourcing strategies.
