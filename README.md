@@ -28,7 +28,12 @@ Completed Deloitte’s virtual analytics simulation focused on **data transforma
 - 🧹 Conducted data cleaning and trend identification using Excel  
 - 📈 Delivered client-ready data stories for decision-making
 
-**Skills:** Tableau, Excel Analytics, Forensic Data Techniques
+**Skills & Tools:**  
+![Tableau](https://img.shields.io/badge/Tableau-Advanced-orange) 
+![Excel](https://img.shields.io/badge/Excel-Expert-green) 
+![Forensic Data](https://img.shields.io/badge/Forensic_Data-Techniques-blue)  
+**Platform:**  
+![Forage](https://img.shields.io/badge/Forage-Completed-blue)
 
 </details>
 
@@ -45,7 +50,11 @@ Hands-on project on **Machine Learning Operations (MLOps)** for Generative AI mo
 - 📊 Implemented model evaluation and drift detection  
 - 🔒 Focused on Responsible AI and model governance
 
-**Skills:** Vertex AI, MLOps, Model Deployment
+**Skills & Tools:**  
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-Intermediate-brightgreen) 
+![MLOps](https://img.shields.io/badge/MLOps-Intermediate-yellow)  
+**Platform:**  
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Completed-blue)
 
 </details>
 
@@ -61,7 +70,11 @@ Developed **AI-driven HR automation concepts** to optimize recruitment pipelines
 - 🤖 Integrated AI tools for candidate screening and bias reduction  
 - ⚖ Designed ethical and transparent AI recruiting frameworks
 
-**Skills:** Generative AI, HR Analytics, ATS Systems
+**Skills & Tools:**  
+![Generative AI](https://img.shields.io/badge/Generative_AI-Intermediate-lightgrey) 
+![HR Analytics](https://img.shields.io/badge/HR_Analytics-Intermediate-blue)  
+**Platform:**  
+![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-Completed-blue)
 
 </details>
 
@@ -77,7 +90,11 @@ Applied **data-driven frameworks** to forecast workforce needs and build success
 - 📈 Conducted supply-demand gap analysis  
 - 📝 Built succession readiness dashboards in Excel
 
-**Skills:** Workforce Planning, Forecasting, Excel Dashboards
+**Skills & Tools:**  
+![Excel](https://img.shields.io/badge/Excel-Advanced-green) 
+![Workforce Planning](https://img.shields.io/badge/Workforce_Planning-Intermediate-blue)  
+**Platform:**  
+![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-Completed-blue)
 
 </details>
 
@@ -93,7 +110,12 @@ Capstone analytics project linking **HR metrics with organizational KPIs**.
 - 🔍 Developed HR analytics models for turnover prediction and performance scoring  
 - 📊 Visualized key HR insights using Power BI and Excel
 
-**Skills:** Data-Driven HR, Predictive Analytics
+**Skills & Tools:**  
+![Power BI](https://img.shields.io/badge/Power_BI-Advanced-blue) 
+![Excel](https://img.shields.io/badge/Excel-Advanced-green) 
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-Intermediate-lightgrey)  
+**Platform:**  
+![CHRMP](https://img.shields.io/badge/CHRMP-Capstone-purple)
 
 </details>
 
@@ -109,7 +131,9 @@ Designed an **Oracle Fusion Cloud HCM workflow** to automate HR lifecycle activi
 - 🤖 Automated recruitment, onboarding, and payroll processes  
 - 📊 Configured HCM dashboards for analytics and workforce insights
 
-**Skills:** Oracle Fusion HCM, HR Transformation
+**Skills & Tools:**  
+![Oracle Fusion HCM](https://img.shields.io/badge/Oracle_Fusion_HCM-Intermediate-blue) 
+![HR Transformation](https://img.shields.io/badge/HR_Transformation-Intermediate-lightgrey)
 
 </details>
 
@@ -123,6 +147,9 @@ Configured a simulated **SAP SuccessFactors environment** for performance tracki
 
 **Highlights:**  
 - 🏆 Developed OKR and KPI tracking modules
+
+**Skills & Tools:**  
+![SAP SuccessFactors](https://img.shields.io/badge/SAP_SuccessFactors-Intermediate-blue) 
 
 </details>
 
@@ -138,7 +165,10 @@ Data exploration project identifying **engagement and retention drivers** throug
 - 📊 Analyzed engagement survey data using Excel + Python  
 - 🔗 Correlated engagement with performance and tenure metrics
 
-**Skills:** Python (Pandas), Excel, HR Analytics
+**Skills & Tools:**  
+![Python](https://img.shields.io/badge/Python-Intermediate-blue) 
+![Excel](https://img.shields.io/badge/Excel-Advanced-green) 
+![HR Analytics](https://img.shields.io/badge/HR_Analytics-Intermediate-lightgrey)
 
 </details>
 
@@ -154,9 +184,34 @@ Conceptual project integrating **Microsoft Copilot and Generative AI** for HR an
 - 📈 Automated report generation and data queries  
 - 🎛 Designed AI-powered HR dashboards with narration
 
-**Skills:** Copilot, Generative AI, Prompt Engineering
+**Skills & Tools:**  
+![Copilot](https://img.shields.io/badge/Copilot-Intermediate-lightblue) 
+![Generative AI](https://img.shields.io/badge/Generative_AI-Intermediate-lightgrey) 
 
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
