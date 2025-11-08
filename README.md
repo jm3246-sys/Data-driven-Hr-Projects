@@ -2,6 +2,27 @@
 
 Professional portfolio showcasing **HR Analytics**, **Power BI dashboards**, and **AI-driven HR projects**.
 
+
+## 🚀 Key Skills & Achievements
+
+**Core Skills:**  
+![Python](https://img.shields.io/badge/Python-Intermediate-blue) 
+![Excel](https://img.shields.io/badge/Excel-Advanced-green) 
+![Tableau](https://img.shields.io/badge/Tableau-Advanced-orange) 
+![Power BI](https://img.shields.io/badge/Power_BI-Advanced-blue) 
+![HR Analytics](https://img.shields.io/badge/HR_Analytics-Intermediate-lightgrey) 
+![Generative AI](https://img.shields.io/badge/Generative_AI-Intermediate-lightgrey) 
+![MLOps](https://img.shields.io/badge/MLOps-Intermediate-yellow) 
+![Oracle Fusion HCM](https://img.shields.io/badge/Oracle_Fusion_HCM-Intermediate-blue) 
+![SAP SuccessFactors](https://img.shields.io/badge/SAP_SuccessFactors-Intermediate-blue) 
+![Copilot](https://img.shields.io/badge/Copilot-Intermediate-lightblue)
+
+**Certifications / Platforms:**  
+![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-Completed-blue) 
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Completed-brightgreen) 
+![Forage](https://img.shields.io/badge/Forage-Completed-blue) 
+![CHRMP](https://img.shields.io/badge/CHRMP-Capstone-purple)
+
 ---
 
 ## 📌 Table of Contents
@@ -54,7 +75,7 @@ Hands-on project on **Machine Learning Operations (MLOps)** for Generative AI mo
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-Intermediate-brightgreen) 
 ![MLOps](https://img.shields.io/badge/MLOps-Intermediate-yellow)  
 **Platform:**  
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Completed-blue)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Completed-brightgreen)
 
 </details>
 
@@ -189,33 +210,6 @@ Conceptual project integrating **Microsoft Copilot and Generative AI** for HR an
 ![Generative AI](https://img.shields.io/badge/Generative_AI-Intermediate-lightgrey) 
 
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
